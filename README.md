@@ -51,7 +51,6 @@ ShopSphere/
 │
 ├── index.html
 ├── products.html
-├── product.html
 ├── about.html
 ├── contact.html
 │
@@ -63,7 +62,6 @@ ShopSphere/
 ├── js/
 │   ├── data.js
 │   ├── products.js
-│   ├── cart.js
 │   └── theme.js
 │
 ├── images/
